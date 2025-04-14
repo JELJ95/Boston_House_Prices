@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-This project uses machine learning to predict house prices in Boston. I test multiple models and optimize performance using Feature Engineering and hyperparameter tuning.
+This project uses machine learning to predict house prices in Boston. I test multiple models and optimize performance using feature engineering and hyperparameter tuning.
 
 ## 📂 Dataset
 
